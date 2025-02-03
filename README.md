@@ -1,6 +1,6 @@
 <img src=".assets/geyser.jpg" alt="geyser erupting, Iceland. Engraving E" style="width: 400px;" align="right">
 
-# clerk-aws
+# `clerk-aws`
 🧑‍💼 AWS | Clerk 🧑‍💼
 
 ## ©️ Copyright
